@@ -1,0 +1,14 @@
+C:\Users\it\Desktop\C#\1st\bin\Debug\net8.0\1st.exe
+C:\Users\it\Desktop\C#\1st\bin\Debug\net8.0\1st.deps.json
+C:\Users\it\Desktop\C#\1st\bin\Debug\net8.0\1st.runtimeconfig.json
+C:\Users\it\Desktop\C#\1st\bin\Debug\net8.0\1st.dll
+C:\Users\it\Desktop\C#\1st\bin\Debug\net8.0\1st.pdb
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\1st.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\1st.AssemblyInfo.cs
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\1st.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\1st.dll
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\refint\1st.dll
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\1st.pdb
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\1st.genruntimeconfig.cache
+C:\Users\it\Desktop\C#\1st\obj\Debug\net8.0\ref\1st.dll
